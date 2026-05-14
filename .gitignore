@@ -1,0 +1,20 @@
+# Rust
+/target
+**/*.rs.bk
+
+# Environment
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Docker
+**/docker-compose.override.yml
+**/docker-compose.prod.yml
+
+# Misc
+.DS_Store
